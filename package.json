@@ -34,6 +34,7 @@
     "fa-icons": "^0.2.0",
     "formik": "^2.4.6",
     "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
     "lucide-react": "^0.454.0",
     "mongoose": "^8.8.0",
     "next": "15.0.2",
@@ -50,6 +51,7 @@
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
     "@types/jsonwebtoken": "^9.0.7",
+    "@types/lodash": "^4.17.13",
     "@types/node": "^20",
     "@types/nodemailer": "^6.4.16",
     "@types/react": "^18",
